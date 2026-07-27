@@ -5,7 +5,7 @@ export const experience = [
     duration: 'Marzo 2025 - Actualidad',
     responsibilities: [
       'Gestionar y cargar datos en plataformas digitales, realizando la transcripción y digitación de información, asegurando con consistencia en formatos y disponibilidad para analisis posteriores',
-      'Validar y depurar información mediante procesos de verificación y control de calidad de datos, garantizando que la información publicada en los sistemas sea precisa, actualizada y libre de errores o duplicidades.'
+      'Validar y depurar información mediante procesos de verificación y control de calidad de datos, garantizando que la información publicada en los sistemas sea precisa, actualizada y libre de errores o duplicidades.',
       'Digitalizar y administrar documentación escanenado y organizando archivos para su almacenamiento en la nube, asegurando trazabilidad, acceso eficiente y resguardo de la información',
     ],
   },
@@ -23,9 +23,9 @@ export const experience = [
     position: 'Líder de Cabaña y Especialista en Actividades',
     duration: 'Mayo 2024 - Julio 2024',
     responsibilities: [
-      'Lideré dinámicas grupales para comunidades de más de 20 campistas, logrando una tasa de participación activa del 100% en actividades educativas y recreativas.'
-      'Instruí y supervisé técnicas especializadas en arquería, cuerdas altas y senderismo, priorizando la seguridad y reduciendo incidentes operativos a cero.'
-      'Coordiné la logística de horarios semanales junto al equipo administrativo, optimizando la transición entre actividades en un 15% del tiempo estimado.,'
+      'Lideré dinámicas grupales para comunidades de más de 20 campistas, logrando una tasa de participación activa del 100% en actividades educativas y recreativas.',
+      'Instruí y supervisé técnicas especializadas en arquería, cuerdas altas y senderismo, priorizando la seguridad y reduciendo incidentes operativos a cero.',
+      'Coordiné la logística de horarios semanales junto al equipo administrativo, optimizando la transición entre actividades en un 15% del tiempo estimado.',
     ],
   }
 ]
