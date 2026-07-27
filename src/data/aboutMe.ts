@@ -4,9 +4,9 @@ export const aboutMe = {
   description: 'Transformo datos complejos en decisiones estratégicas mediante soluciones analíticas y de automatización',
   bio: {
     paragraphs: [
-      "Ingeniero Mecatrónico especializado en Análisis de Datos con un enfoque en la transformación de información compleja en decisiones estratégicas. 
-      'Cuento con dominio técnico en Python (Pandas, NumPy, Scikit-learn) y SQL para la extracción y manipulación de grandes volúmenes de datos. Mi experiencia incluye la creación de tableros interactivos y Storytelling de datos utilizando Power BI y Tableau, permitiendo una visualización clara del rendimiento del negocio.'
-      'Me apasiona el Análisis Exploratorio de Datos (EDA), las pruebas A/B y la detección de patrones que optimicen procesos. Mi formación como ingeniero me permite abordar problemas desde una perspectiva lógica y estructurada, garantizando soluciones eficientes y escalables.'
+      'Ingeniero Mecatrónico especializado en Análisis de Datos con un enfoque en la transformación de información compleja en decisiones estratégicas.', 
+      'Cuento con dominio técnico en Python (Pandas, NumPy, Scikit-learn) y SQL para la extracción y manipulación de grandes volúmenes de datos. Mi experiencia incluye la creación de tableros interactivos y Storytelling de datos utilizando Power BI y Tableau, permitiendo una visualización clara del rendimiento del negocio.',
+      'Me apasiona el Análisis Exploratorio de Datos (EDA), las pruebas A/B y la detección de patrones que optimicen procesos. Mi formación como ingeniero me permite abordar problemas desde una perspectiva lógica y estructurada, garantizando soluciones eficientes y escalables.',
       'Estoy siempre abierto a nuevas oportunidades y conexiones profesionales.',
     ]
   },
