@@ -10,7 +10,7 @@ export const aboutMe = {
       'Estoy siempre abierto a nuevas oportunidades y conexiones profesionales.',
     ]
   },
-  skills: ['Python', 'Numpy', 'Scikit-Learn', 'Pandas', 'SQL', 'Tableu', 'PowerBI'. 'Jupiter',],
+  skills: ['Python', 'Numpy', 'Scikit-Learn', 'Pandas', 'SQL', 'Tableau', 'PowerBI', 'Jupyter'],
   hobbies: ['Gaming', 'Viajar', 'Lectura'],
   profile: {
     picture: '/profile.jpg',
