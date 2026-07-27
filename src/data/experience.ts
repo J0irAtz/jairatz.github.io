@@ -25,7 +25,7 @@ export const experience = [
     responsibilities: [
       'Lideré dinámicas grupales para comunidades de más de 20 campistas, logrando una tasa de participación activa del 100% en actividades educativas y recreativas.',
       'Instruí y supervisé técnicas especializadas en arquería, cuerdas altas y senderismo, priorizando la seguridad y reduciendo incidentes operativos a cero.',
-      'Coordiné la logística de horarios semanales junto al equipo administrativo, optimizando la transición entre actividades en un 15% del tiempo estimado.',
+      'Coordiné la logística de los horarios semanales junto al equipo administrativo, optimizando la transición entre actividades en un 15% del tiempo estimado.',
     ],
   }
 ]
