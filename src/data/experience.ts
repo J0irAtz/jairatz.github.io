@@ -1,29 +1,31 @@
 export const experience = [
   {
-    company: 'Tech Solutions Inc.',
-    position: 'Senior Software Developer',
-    duration: 'January 2020 - Present',
+    company: 'LeadVenture - LaPaz/Remoto',
+    position: 'Capturista de Datos',
+    duration: 'Marzo 2025 - Actualidad',
     responsibilities: [
-      'Lead a team of developers to design and implement web applications using React and Node.js.',
-      'Collaborate with cross-functional teams',
+      'Gestionar y cargar datos en plataformas digitales, realizando la transcripción y digitación de información, asegurando con consistencia en formatos y disponibilidad para analisis posteriores',
+      'Validar y depurar información mediante procesos de verificación y control de calidad de datos, garantizando que la información publicada en los sistemas sea precisa, actualizada y libre de errores o duplicidades.'
+      'Digitalizar y administrar documentación escanenado y organizando archivos para su almacenamiento en la nube, asegurando trazabilidad, acceso eficiente y resguardo de la información',
     ],
   },
   {
-    company: 'Innovatech Ltd.',
-    position: 'Software Developer',
-    duration: 'June 2017 - December 2019',
+    company: 'Television Mexiquense – Toluca, Mexico',
+    position: 'Asistente de Operaciones',
+    duration: 'Enero 2023 - Noviembre 2023',
     responsibilities: [
-      'Developed and maintained web applications using JavaScript, HTML, and CSS.',
-      'Worked closely with designers',
+      'Garanticé la continuidad operativa de la transmisión al aire supervisando el rendimiento del equipo de radiodifusión, logrando una reducción del 100% en incidencias técnicas',
+      'Gestioné la resolución de problemas técnicos críticos en vivo en colaboración con equipos de producción, manteniendo los estándares de calidad de la señal bajo presión.',
     ],
   },
   {
-    company: 'Web Solutions Co.',
-    position: 'Junior Software Developer',
-    duration: 'January 2015 - May 2017',
+    company: 'Campamento Institucional PALI – Running Springs, CA',
+    position: 'Líder de Cabaña y Especialista en Actividades',
+    duration: 'Mayo 2024 - Julio 2024',
     responsibilities: [
-      'Assisted in the development of web applications and performed bug fixes.',
-      'Contributed to the documentation of code ',
+      'Lideré dinámicas grupales para comunidades de más de 20 campistas, logrando una tasa de participación activa del 100% en actividades educativas y recreativas.'
+      'Instruí y supervisé técnicas especializadas en arquería, cuerdas altas y senderismo, priorizando la seguridad y reduciendo incidentes operativos a cero.'
+      'Coordiné la logística de horarios semanales junto al equipo administrativo, optimizando la transición entre actividades en un 15% del tiempo estimado.,'
     ],
   }
 ]

@@ -1,15 +1,17 @@
 export const aboutMe = {
-  name: 'Soy Stron',
-  profession: 'Software Developer',
-  description: 'Passionate about building web applications and learning new technologies.',
+  name: 'Soy Jair Eduardo Alfaro Ahuatzin',
+  profession: 'Junior Data Analyst | Ingeniero Mecatrónico',
+  description: 'Transformo datos complejos en decisiones estratégicas mediante soluciones analíticas y de automatización',
   bio: {
     paragraphs: [
-      "I'm a passionate software developer with over 5 years of experience in building web applications. I specialize in JavaScript and have a strong background in both frontend and backend development.",
-      "I enjoy working on challenging projects and continuously learning new technologies. In my free time, I love traveling, cooking, and gaming.",
+      "Ingeniero Mecatrónico especializado en Análisis de Datos con un enfoque en la transformación de información compleja en decisiones estratégicas. 
+      'Cuento con dominio técnico en Python (Pandas, NumPy, Scikit-learn) y SQL para la extracción y manipulación de grandes volúmenes de datos. Mi experiencia incluye la creación de tableros interactivos y Storytelling de datos utilizando Power BI y Tableau, permitiendo una visualización clara del rendimiento del negocio.'
+      'Me apasiona el Análisis Exploratorio de Datos (EDA), las pruebas A/B y la detección de patrones que optimicen procesos. Mi formación como ingeniero me permite abordar problemas desde una perspectiva lógica y estructurada, garantizando soluciones eficientes y escalables.'
+      'Estoy siempre abierto a nuevas oportunidades y conexiones profesionales.',
     ]
   },
-  skills: ['JavaScript', 'TypeScript', 'React', 'Node.js', 'Python'],
-  hobbies: ['Traveling', 'Cooking', 'Gaming'],
+  skills: ['Python', 'Numpy', 'Scikit-Learn', 'Pandas', 'SQL', 'Tableu', 'PowerBI'. 'Jupiter'],
+  hobbies: ['Gaming', 'Viajar', 'Lectura'],
   profile: {
     picture: '/profile.jpg',
     altText: "John Doe's Profile Picture",
@@ -19,13 +21,13 @@ export const aboutMe = {
     altText: 'Technology Banner',
   },
   contact: {
-    email: 'JohnDoe@example.com',
-    phone: '+1234567890',
+    email: 'jr.hew0520@gmail.com',
+    phone: '+52 7291543338',
   }, 
   socialMedia: {
-    linkedin: 'https://github.com/elstron',
-    github: 'https://github.com/elstron',
-    youtube: 'https://www.youtube.com/@Stron_',
+    linkedin: 'https://www.linkedin.com/in/jair-eduardo-alfaro-ahuatzin-dataanalyst-eng/?skipRedirect=true',
+    github: 'https://github.com/J0irAtz',
+    youtube: 'https://youtu.be/_SGWXdSUMTg',
     x: 'https://x.com/Stron__',
     website: 'https://github.com/elstron'
     //facebook: 'https://www.facebook.com/JohnDoe',
